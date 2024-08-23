@@ -4,7 +4,9 @@
 **xm555-JS/xm555-JS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 <div align="center">
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=6994CDEE&text=Welcome%20to%20Jeaseong's%20GitHub%20&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
+![header](https://capsule-render.vercel.app/api?
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 </div>
 
 Here are some ideas to get you started:
